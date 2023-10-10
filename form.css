@@ -1,0 +1,31 @@
+.container {
+    background-color: lightskyblue
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    padding-left: 10px;
+}
+
+input {
+    width: 95%;
+    padding: 12px;
+    margin: 10px;
+    box-sizing: border-box;
+    color: grey;
+    border-radius: 5px;
+}
+
+input[type=radio] {
+    width: 0%;
+}
+
+input[type=text] {
+    color: grey;
+}
+
+input[type=Submit] {
+    background-color: green;
+    color: white;
+}
